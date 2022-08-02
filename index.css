@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(243, 220, 189);
+}
+.box {
+    color: darkslategrey;
+    border-color: gainsboro;
+}
+
+h1{
+    font-size: 2rem;
+}
+p {
+    color:rgb(68, 2, 2);
+}
+#topmost {
+    color: #ffff;
+    background-color: black;
+}
+.funding{
+    border-radius: 50px;
+}
+img{
+    border-radius: 20px;
+}
